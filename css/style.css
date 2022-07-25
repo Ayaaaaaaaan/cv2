@@ -1,6 +1,6 @@
 
       body {
-        background-color:#b5dcdc;
+        background-color: #b5dcdc;
       }
       hr{
         background: none;
@@ -10,4 +10,10 @@
         border-width: 5px;
         width: 15%;
       }
-      
+      h1{
+        color: #0c4343 ;
+      }
+      h3{
+        color: #0c4343;
+        text-decoration: underline;
+      }
